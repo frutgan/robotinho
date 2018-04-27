@@ -16,4 +16,9 @@ Por ultimo decir que nuestra aplicación kinect esta
 basada en el ejemplo de skeletonbasics-WPF que puede encontrar en el kit SDK.
 
 En el repositorio encontrarás los códigos de arduino y visual basic.
+
+Puedes ver el video en el canal de youtube fruti an:
+https://www.youtube.com/watch?v=IB651bwB6RU
 <p>
+
+<h5> By  Maciej & fruti an </h5>
